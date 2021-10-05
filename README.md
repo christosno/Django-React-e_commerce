@@ -5,7 +5,7 @@ This project is a group project for coding bootcamp
 
 # Setup
 
-
+- For backend
 ```
 pip install django
 ```
@@ -23,4 +23,11 @@ pip install django-cors-headers
 ```
 ```
 pip install djangorestframework-simplejwt
+```
+- For frontend
+```
+npm install
+```
+```
+npm start
 ```
